@@ -20,6 +20,7 @@ Columns 3-81 contain mean and standard deviation of the 128 measurements taken d
 The remaining columns contain each measurement taken during the window.  Total Acceleration, angular velocity, and body acceleration were measured on all three axes.  As noted above, 128 readings were taken per window, so each combination of measurements and axes contains 128 distinct measurements, ordered chronologically from first to last.  
 
 A complete list of column/variable names follows at the end of this document for reference.
+
   [1] "Activity"                                                                             
   [2] "Subject_Number"                                                                       
   [3] "  Mean  Accelerometer  Raw  Signal from Body on X Axis"                               
